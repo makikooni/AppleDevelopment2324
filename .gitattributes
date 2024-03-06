@@ -1,2 +1,4 @@
 * linguist-vendored
-*.swift linguist-vendored=false
+*.swift linguist-detectable=true
+*.py linguist-detectable=true
+*.ipynb linguist-vendored
